@@ -6,10 +6,10 @@
 }
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #040404;
+  background-color: #1c1b22;
   color: #fff;
   position: relative;
-  background: transparent;
+  /* background: transparent; */
 }
 body::before {
   content: "";
